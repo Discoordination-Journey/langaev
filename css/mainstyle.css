@@ -1,0 +1,58 @@
+﻿body 
+{
+	background-color: #2453C9; 
+	background-image: url(../images/micro.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+p
+{
+	color: black;
+	text-align: justify;
+	font-size: 14pt;
+	font-family: Times New Roman, Verdana, Arial, Helvetica, MS Sans Serif, Sans-Serif;
+}
+
+p.caption
+{
+	text-align: center; 
+	font-size: 20pt; 
+	font-weight: bold;
+	color: black;
+	font-family: Times New Roman, Verdana, Arial, Helvetica, MS Sans Serif, Sans-Serif;
+}
+
+table
+{
+	border: 0;
+	background-color: white;
+	border-radius: 10px;
+	width: 850px;
+	PADDING: 0px 45px;
+	margin: 5 auto;
+	text-align: center;
+}
+
+a 
+{
+	color: #0026FF; 
+	text-decoration: none; 
+	font-weight: bold;
+	text-align: justify;
+}
+
+a:hover 
+{
+	color:red; 
+	text-decoration: none; 
+	text-align: justify;
+}
+
+img
+{
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 0px 0px;
+}
